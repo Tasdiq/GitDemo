@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="6" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="4470" started-at="2019-03-10T06:42:36Z" finished-at="2019-03-10T06:42:41Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="4470" started-at="2019-03-10T06:42:36Z" finished-at="2019-03-10T06:42:41Z">
+      <class name="TQHome.RESTAPITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:TQHome.RESTAPITest@59e84876]" name="deleteTwitter" duration-ms="0" started-at="2019-03-10T06:42:37Z" finished-at="2019-03-10T06:42:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+      </class> <!-- TQHome.RESTAPITest -->
+      <class name="TQHome.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:TQHome.SeleniumTest@61a485d2]" name="BrowserAutomation" duration-ms="4421" started-at="2019-03-10T06:42:37Z" finished-at="2019-03-10T06:42:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+      </class> <!-- TQHome.SeleniumTest -->
+      <class name="TQHome.TestAppium">
+        <test-method status="PASS" signature="iOsApps()[pri:0, instance:TQHome.TestAppium@39fb3ab6]" name="iOsApps" duration-ms="0" started-at="2019-03-10T06:42:41Z" finished-at="2019-03-10T06:42:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iOsApps -->
+      </class> <!-- TQHome.TestAppium -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
